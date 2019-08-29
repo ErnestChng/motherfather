@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135469346517",
+    "firebase_url": "https://motherfather-9b045.firebaseio.com",
+    "project_id": "motherfather-9b045",
+    "storage_bucket": "motherfather-9b045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135469346517:android:d8cff895c4e3a5e1",
+        "android_client_info": {
+          "package_name": "com.example.motherfather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135469346517-r4t5tgcfrc5pq0tj80i1ra8fdndhrkev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motherfather",
+            "certificate_hash": "8af7c310b4129950d0aeb662875a1653ac1740ec"
+          }
+        },
+        {
+          "client_id": "135469346517-t2iugikihl41c86g1anfg17fqmtjfha6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8dDjLLSeGmhO1gaxVTrrvU-yoQ04Cgto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135469346517-t2iugikihl41c86g1anfg17fqmtjfha6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
